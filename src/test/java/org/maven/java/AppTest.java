@@ -19,7 +19,7 @@ public class AppTest
             
         //     assertEquals(76,output);
         //     if(76 == output){
-                assertTrue(null, 0== output);
+                assertTrue(null, 1== output);
         //     }
             
         }
